@@ -1,3 +1,33 @@
+# Journey Through C++ Smart Pointers
+
+## Introduction
+This serves as a place to cement my understanding of C++ and put thoughts down on paper. Knowledge from this article will be sourced from university, forums and documentation. 
+
+## Primer Knowledge
+This focuses on smart pointers which assumes you have a decent understanding of C-style pointers, dereferencing and other related information. This information should be sought from other sources but a quick recap will be located here:
+
+### Pointers 
+
+### Dereferencing
+
+### Addresses
+
+## Smart Pointers
+Smart pointers are like normal pointers but with additional overhead which makes it harder to mess up and cause leaks. 
+
+However I would never let any good design stop me from doing stupid things.
+
+### Unique Pointers
+
+### Shared Pointers
+
+### 
+
+###
+
+## Misc Examples
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Moop204/journey-through-cpp-smart-pointers/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
